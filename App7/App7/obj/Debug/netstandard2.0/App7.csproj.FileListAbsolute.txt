@@ -1,0 +1,16 @@
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\bin\Debug\netstandard2.0\App7.deps.json
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\bin\Debug\netstandard2.0\App7.dll
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\bin\Debug\netstandard2.0\App7.pdb
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.csproj.CoreCompileInputs.cache
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.App.xaml.g.cs
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.MainPage.xaml.g.cs
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.mdPage.mdPage.xaml.g.cs
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.mdPage.mdPageDetail.xaml.g.cs
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.mdPage.mdPageMaster.xaml.g.cs
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.AssemblyInfoInputs.cache
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.AssemblyInfo.cs
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.dll
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.pdb
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.csprojResolveAssemblyReference.cache
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.Perso.PersoDetail.xaml.g.cs
+C:\Users\sasha.flammann\source\repos\App7\App7\App7\obj\Debug\netstandard2.0\App7.Perso.Perso.xaml.g.cs

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App7"
+             x:Class="App7.MainPage"
+             Title="MainPage">
+    <StackLayout>
+	<Label Text="Welcome to Xamarin.Forms!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+
+    <Button Text="Click Me!"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand" 
+            Clicked="OnButtonClicked"/>
+
+
+    <Button Text="Test!"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand" 
+            Clicked="OnPreviousPageButtonClicked"/>
+
+    </StackLayout>
+</ContentPage>
